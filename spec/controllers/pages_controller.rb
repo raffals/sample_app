@@ -1,11 +1,1 @@
-class PagesController < ApplicationController
-
-  def home
-  end
-
-  def contact
-  end
-
-  def about
-  end
-end
+../../app/controllers/pages_controller.rb
